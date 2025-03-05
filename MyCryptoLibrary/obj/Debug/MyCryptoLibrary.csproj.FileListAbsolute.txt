@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\C# folder\MyCryptoLibrary\MyCryptoLibrary\MyCryptoLibrary\bin\Debug\MyCryptoLibrary.exe.config
+C:\Users\User\Desktop\C# folder\MyCryptoLibrary\MyCryptoLibrary\MyCryptoLibrary\bin\Debug\MyCryptoLibrary.exe
+C:\Users\User\Desktop\C# folder\MyCryptoLibrary\MyCryptoLibrary\MyCryptoLibrary\bin\Debug\MyCryptoLibrary.pdb
+C:\Users\User\Desktop\C# folder\MyCryptoLibrary\MyCryptoLibrary\MyCryptoLibrary\obj\Debug\MyCryptoLibrary.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# folder\MyCryptoLibrary\MyCryptoLibrary\MyCryptoLibrary\obj\Debug\MyCryptoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# folder\MyCryptoLibrary\MyCryptoLibrary\MyCryptoLibrary\obj\Debug\MyCryptoLibrary.exe
+C:\Users\User\Desktop\C# folder\MyCryptoLibrary\MyCryptoLibrary\MyCryptoLibrary\obj\Debug\MyCryptoLibrary.pdb
